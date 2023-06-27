@@ -3,7 +3,6 @@
 Welcome to the Visual Coding Challenges repository! This repository contains a collection of visually appealing coding challenges implemented using the Processing library. Each challenge explores different concepts and techniques related to computer graphics and simulations.
 
 ## Challenges
-
 Each of the directories is a different coding challenge.
 
 ## Usage
